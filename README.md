@@ -4,4 +4,4 @@ Se incluyen las prácticas, imágenes y códigos realizados
 Los integrantes del equipo son:
 - López Ramírez Javier Yahir
 - Mote Marrufo Einar Gabriel
-- Saravia Millán Armando 
+- Sarabia Millán Armando 
