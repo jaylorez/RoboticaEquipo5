@@ -1,0 +1,4 @@
+**/.ipynb_checkpoints/*
+Workspaces/*/build
+Workspaces/*/install
+Workspaces/*/log
